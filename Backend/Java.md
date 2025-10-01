@@ -15,7 +15,12 @@
 ### Commands
 ```powershell
 # Execute a file
-java file.java
+java className.java
+
+# Compile
+javac className.java # Converts to .class file
+# Execute the .class file
+java className
 ```
 
 ---
