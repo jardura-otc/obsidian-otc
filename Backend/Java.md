@@ -1,4 +1,8 @@
 ## Index
+[[#Resources]]
+[[#Commands]]
+[[#Basics]]
+[[#Booleans]]
 
 ---
 ---
@@ -40,3 +44,12 @@ int sum = new Calculator().add(1, 2);
 
 ---
 ---
+### Booleans
+```java
+boolean isTrue = true;
+boolean isFalse = false;
+```
+- `!` (NOT): negates the boolean.
+- `&&` (AND): takes two booleans and results in true if they're both true.
+- `||` (OR): results in true if any of the two booleans is true.
+
