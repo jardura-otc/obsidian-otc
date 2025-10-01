@@ -64,3 +64,39 @@ String fruit = "Apple";
 ---
 ---
 
+### If-Else Statements
+```java
+// if-then statement
+class Car {
+	void drive() {
+		if (fuel > 0) {
+			fuel--;
+		}
+	}
+}
+
+// if-then-else statement
+class Car {
+	void drive() {
+		if (fuel > 0) {
+			fuel--;
+		} else {
+			stop();
+		}
+	}
+}
+
+// else if clause
+class Car {
+	void drive() {
+		if (fuel > 5) {
+			fuel--;
+		} else if (fuel > 0) {
+			turnOnFuelLight();
+		} else {
+			strop();
+		}
+	}
+}
+```
+
