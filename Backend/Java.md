@@ -53,3 +53,14 @@ boolean isFalse = false;
 - `&&` (AND): takes two booleans and results in true if they're both true.
 - `||` (OR): results in true if any of the two booleans is true.
 
+---
+---
+### String class
+```java
+String fruit = "Apple";
+```
+[String class methods](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html#method.summary)
+
+---
+---
+
