@@ -162,7 +162,7 @@ for (initialization; test; update) {
 }
 
 // Example
-for (int i = 1 <= 4; i++) {
+for (int i = 1; i <= 4; i++) {
 	System.out.println("square of " + i + " is " + i * i);
 }
 ```
