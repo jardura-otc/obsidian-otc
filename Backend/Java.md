@@ -244,7 +244,7 @@ int startingSize = vowels.size(); // 7
 
 vowels.add("u") // "u" appended
 
-char a = vowels.get // a
+char a = vowels.get(0); // a
 
 boolean hadI = vowels.remove("i"); // true and deletes the first "i"
 
