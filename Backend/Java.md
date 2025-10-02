@@ -105,3 +105,64 @@ class Car {
 }
 ```
 
+---
+### Arrays
+```java
+// Standard syntax
+type[] variableName = new type[size];
+// Declare array with explicit size
+int[] twoInts = new int[2];
+
+// Two ways to declare and initialize and array
+int[] threeIntsV1 = new int[] {4, 9, 7};
+int[] threeIntsV2 = {4, 9, 7};
+
+// Assign second element by index
+twoInts[1] = 8;
+
+// Retrieve the second element by index and assign it
+int secondElement = twoInts[1];
+
+// Example of accessing an array with for-each
+char[] vowels = {"a", "e", "i", "o", "u"};
+// Access to all the values
+for (char vowel: vowels) {
+	System.out.print(vowel);
+}
+
+// Control over which values to iterate over
+for (int i = 0; i < 3; i++) {
+	System.out.print(vowels[i]);
+}
+```
+
+[Array's class functions](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
+
+---
+### For-Each
+```java
+for(declaration: collection) {
+	body;
+}
+
+// Example of accessing an array with for-each
+char[] vowels = {"a", "e", "i", "o", "u"};
+// Access to all the values
+for (char vowel: vowels) {
+	System.out.print(vowel);
+}
+```
+
+---
+### For Loops
+
+```java
+for (initialization; test; update) {
+	body;
+}
+
+// Example
+for (int i = 1 <= 4; i++) {
+	System.out.println("square of " + i + " is " + i * i);
+}
+```
