@@ -223,3 +223,66 @@ Car newCar = new Car();
 newCar.weight; // 2500
 ```
 
+---
+### Lists
+
+Lists may be empty or hold any number of items (including duplicates). Lists are a generic interface typed to indicate which type of objects they can contain.
+```java
+List<String> emptyListOfStrings = List.of();
+List<Integer> singleInteger = List.of(1);
+List<Boolean> threeBooleans = List.of(true, false, true);
+List<Object> listWithMultipleTypes = List.of("hello", 1, true);
+
+// Methods to add, remove, get and check for an element
+List<Character> vowels = new ArrayList<>(List.of('a', 'e', 'i', 'o', 'i', 'e', 'a'));
+
+int startingSize = vowels.size(); // 7
+
+vowels.add("u") // "u" appended
+
+char a = vowels.get // a
+
+boolean hadI = vowels.remove("i"); // true and deletes the first "i"
+
+boolean hasI = vowels.remove("i"); // true (one more left)
+```
+
+---
+### Generics
+They're like labeled boxes in programming.
+When you create a list or collection to hold things, you can tell Java **what type of thing** goes inside.
+```java
+// A box specifically for text (Strings)
+List<String> names = new ArrayList<String>();
+names.add("Alice");   // ✓ Works!
+names.add("Bob");     // ✓ Works!
+names.add(42);        // ✗ ERROR! Java says "Hey, this box is for text only!"
+
+// When you take something out, Java knows it's text
+String name = names.get(0);  // No need to tell Java, it already knows!
+
+// Common examples
+List<String> groceryList;        // List of text items
+List<Integer> ages;              // List of numbers
+Map<String, Integer> scores;     // Pairs of names and scores
+
+// Or whatever you decide
+class Container<E> {
+	private E object;
+	public void set(E object) {
+		this.object = object;
+	}
+	public E get() {
+		return object;
+	}
+}
+// Declare the type it holds
+// empty <> can infer from context
+Container<String> stringContainer = new Container<>();
+// compiler knows this is a String, so it is allowed
+stringContainer.set("Some string");
+// no cast needed, compiler knows it is a String
+String result = stringContainer.get();
+// this causes a compiler error:
+stringContainer.set(42);
+```
