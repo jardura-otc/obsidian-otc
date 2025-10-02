@@ -198,3 +198,28 @@ int value = expr ? 22 : 33;
 
 ---
 ### Class
+- `public`: the member can be accessed by any code (no restrictions).
+- `private`: the member can only be accessed by code in the same class.
+
+```java
+class Car {
+	// Accessible by anyone and initialized
+	public int weight = 2500;
+	// Only accessible by code in this class and default value
+	private String color;
+	
+	// Private field updated by calling a method.
+	private int carsImported;
+	
+	public void importCars(int numberOfCars) {
+		// Update private field from public method
+		carsImported = carsImported + numberOfCars;
+	}
+}
+
+// Create an instance of the class
+Car newCar = new Car();
+// Access a public field
+newCar.weight; // 2500
+```
+
