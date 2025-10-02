@@ -3,6 +3,12 @@
 [[#Commands]]
 [[#Basics]]
 [[#Booleans]]
+[[#String class]]
+[[#If-Else Statements]]
+[[#Arrays]]
+[[#For-Each]]
+[[#For Loops]]
+
 
 ---
 ---
@@ -166,3 +172,13 @@ for (int i = 1; i <= 4; i++) {
 	System.out.println("square of " + i + " is " + i * i);
 }
 ```
+
+---
+### Nullability
+- Primitive data types all have a default zero value and therefore can never be `null`.
+- Reference types contain the memory address of an object and can have a value of `null`
+
+```java
+String str = null;
+```
+
