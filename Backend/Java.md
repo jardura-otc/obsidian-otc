@@ -8,7 +8,11 @@
 [[#Arrays]]
 [[#For-Each]]
 [[#For Loops]]
-
+[[#Nullability]]
+[[#Ternary operators]]
+[[#Class]]
+[[#Lists]]
+[[#Generics]]
 
 ---
 ---
@@ -286,3 +290,4 @@ String result = stringContainer.get();
 // this causes a compiler error:
 stringContainer.set(42);
 ```
+
