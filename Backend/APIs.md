@@ -4,3 +4,9 @@
 **Swagger tools**
 [Swagger Editor](https://editor.swagger.io)
 [Swagger Codegen](https://editor.swagger.io)
+[Codegen Gradle Pluggin](https://github.com/int128/gradle-swagger-generator-plugin)
+[Swagger UI](https://swagger.io/tools/swagger-ui)
+
+---
+---
+---
