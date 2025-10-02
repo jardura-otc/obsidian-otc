@@ -147,7 +147,7 @@ for (int i = 0; i < 3; i++) {
 ---
 ### For-Each
 ```java
-for(declaration: collection) {
+for (declaration: collection) {
 	body;
 }
 
@@ -180,5 +180,19 @@ for (int i = 1; i <= 4; i++) {
 
 ```java
 String str = null;
+```
+---
+### Ternary operators
+Simple `if/else` usually used in `return` statements. Just one single line to make the decision, returning the left value if the expression is `true` and the right value if `false`:
+
+```java
+// model
+condition ? valueIfTrue : valueIfFalse
+
+// example
+boolean expr = 0 != 200; // expr is true
+
+// "If expr is true, assign 22 to value, otherwise assign 33"
+int value = expr ? 22 : 33;
 ```
 
