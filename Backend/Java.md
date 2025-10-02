@@ -196,3 +196,5 @@ boolean expr = 0 != 200; // expr is true
 int value = expr ? 22 : 33;
 ```
 
+---
+### Class
