@@ -68,6 +68,13 @@ wget url-site -O filename.ext
 ls /etc/*release*
 cat /etc/*release*
 
+# Check for packages
+apt list package
 
+# Remove a package
+apt remove package
+
+# Check for duplicated packages
+apt ---showduplicates list package
 
 ```
