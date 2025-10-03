@@ -44,5 +44,30 @@ mv new_file.txt sample_file.txt
 # Remove a file
 rm new_file.txt
 
+# Identify the current user
+whoami
+
+# Identify the user's different IDs
+id
+
+# Switch user
+su username
+
+# Connect to another host through SSH
+ssh username@ip-address
+
+# Execute a command as admin
+sudo command
+
+# Download file
+curl url-site -O
+# Alternative
+wget url-site -O filename.ext
+
+# Check the OS version
+ls /etc/*release*
+cat /etc/*release*
+
+
 
 ```
