@@ -31,4 +31,14 @@ git branch -r
 Maven
 ```shell
 # Clean previous builds and install dependencies
+mvn clean install
+
+# Run with local profile
+mvn spring-boot:run -Dspring-boot.run.profiles=local 
+```
+
+Node
+```shell
+# When cloning a frontend's repo
+npm install
 ```
