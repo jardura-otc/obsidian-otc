@@ -28,3 +28,7 @@ git branch -a
 git branch -r
 ```
 
+Maven
+```shell
+# Clean previous builds and install dependencies
+```
