@@ -10,3 +10,21 @@ How to check OS version
 lsb_release -a
 ```
 
+[Postgresql install docs](https://neon.com/postgresql/postgresql-getting-started/install-postgresql-linux)
+```shell
+# Check the host
+hostname -I
+```
+
+How to view **all** branches
+```shell
+# See only local branches
+git branch
+
+# See all branches (local + remote)
+git branch -a
+
+# See only remote branches
+git branch -r
+```
+
