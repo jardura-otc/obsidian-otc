@@ -10,4 +10,6 @@
 
 **Steps**
 - [ ] Docu
-- [ ] Data structure with [dbdiagram](https://dbdiagram.io)
+- [ ] DB with [dbdiagram](https://dbdiagram.io)
+- [ ] UML with Mermaid.js
+- [ ] Penpot for possible screens (in case the company doesn't want to pay for Figma...)
