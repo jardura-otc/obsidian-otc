@@ -1,5 +1,5 @@
 **Wattson Applicant**
-- [ ] Llegir documentació
+- [x] Llegir documentació
 - [ ] Creació BBDD amb dbdiagrams.io
 - [ ] UML
 	- [ ] Refactoring Guru's Design Patterns UML

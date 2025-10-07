@@ -5,7 +5,7 @@
 ---
 
 ### Branches
-```powershell
+```shell
 # Rename the current branch
 git branch -m main
 
