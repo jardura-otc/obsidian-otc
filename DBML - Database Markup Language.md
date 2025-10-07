@@ -9,8 +9,3 @@
 - [runsql.com](https://runsql.com) is a free & simple tool to create mock database environments to validate your SQL queries.
 - [CLI](https://dbml.dbdiagram.io/cli) to convert between SQL and DBML.
 
-
-
-```markup
-
-```
