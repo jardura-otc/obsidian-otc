@@ -9,11 +9,5 @@
 - [ ] Scrimba's Frontend path
 - [ ] Kodekloud's DevOps roadmap
 
-**Home**
-- [ ] [CS50x](https://cs50.harvard.edu/x)
-- [ ] [CS50w](https://cs50.harvard.edu/web)
-
-
-
 
 
