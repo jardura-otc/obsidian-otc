@@ -7,6 +7,7 @@
 ### References
 [Play with Docker](https://labs.play-with-docker.com)
 [Training with Docker](https://training.play-with-docker.com)
+[Docker docs](https://docs.docker.com)
 
 ---
 ### Roadmap
