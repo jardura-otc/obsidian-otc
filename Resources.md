@@ -20,4 +20,8 @@
 ### Design
 - [Freecodecamp's UML course](https://youtu.be/WnMQ8HlmeXc?si=GXaw-DP5-cC7GaYw)
 - [Freecodecamp's System Design course](https://youtu.be/F2FmTdLtb_4?si=IcUZoBUvqhUKG7tL)
+Swagger
+- [Editor](https://editor.swagger.io)
+- [UI](https://swagger.io/tools/swagger-ui)
+- [Codegen](https://github.com/swagger-api/swagger-codegen)
 
