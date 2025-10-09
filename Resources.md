@@ -3,7 +3,6 @@
 - [TypeScript for the New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 - [Angular Tutorials](https://angular.dev/tutorials)
 - [Sass Basics](https://sass-lang.com/guide)
-- 
 
 ### Backend
 - [Learn Java](https://dev.java/learn)
@@ -13,5 +12,12 @@
 - [Spring Boot docs](https://docs.spring.io/spring-boot/index.html)
 
 ### UX/UI
-- [Figma Design for beginners](https://help.figma.com/hc/en-us/sections/30880632542743)
-- Look in Domestika's site for Figma
+- [First 2 hours demo in Figma](https://youtu.be/QJBP2uy8LcU?si=2LaVZalgPWRZ1ROK)
+
+### Databases
+- [PostgreSQL's docs](https://neon.com/postgresql/tutorial)
+
+### Design
+- [Freecodecamp's UML course](https://youtu.be/WnMQ8HlmeXc?si=GXaw-DP5-cC7GaYw)
+- [Freecodecamp's System Design course](https://youtu.be/F2FmTdLtb_4?si=IcUZoBUvqhUKG7tL)
+

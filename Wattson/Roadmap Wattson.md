@@ -1,1 +1,2 @@
-**Wattson Petitioner**
+- [ ] Learn how to design APIs with Swagger tools.
+	- [ ] Packt's Modern API Development with Spring 6 and Spring Boot 3 - Do the first part
