@@ -1,3 +1,6 @@
+### Backend
+- [ ] [Java and Spring course](https://youtu.be/4XTsAAHW_Tc?si=SSnx0Ss8JS3MsF_I)
+
 ### DevOps
 Beginner [roadmap](https://roadmap.sh/devops?r=devops-beginner)
 - [ ] Udemy's [Docker Mastery] until section 13
@@ -10,10 +13,3 @@ Beginner [roadmap](https://roadmap.sh/devops?r=devops-beginner)
 - [ ] Leanpub's [Ansible for DevOps](https://leanpub.com/ansible-for-devops)
 - [ ] Udemy's [GitHub Actions](https://www.udemy.com/course/github-actions-the-complete-guide)
 ---
-Advanced [roadmap](https://roadmap.sh/devops)
-
----
----
----
-**Projectes interns**
-- [ ] CLI amb Go per gestionar entorns de desenvolupament.
