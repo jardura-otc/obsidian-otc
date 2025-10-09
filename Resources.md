@@ -2,6 +2,8 @@
 - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
 - [TypeScript for the New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 - [Angular Tutorials](https://angular.dev/tutorials)
+- [Sass Basics](https://sass-lang.com/guide)
+- 
 
 ### Backend
 - [Learn Java](https://dev.java/learn)
@@ -12,4 +14,4 @@
 
 ### UX/UI
 - [Figma Design for beginners](https://help.figma.com/hc/en-us/sections/30880632542743)
-- 
+- Look in Domestika's site for Figma
