@@ -24,6 +24,7 @@
 - [Freecodecamp's UML course](https://youtu.be/WnMQ8HlmeXc?si=GXaw-DP5-cC7GaYw)
 - [Freecodecamp's System Design course](https://youtu.be/F2FmTdLtb_4?si=IcUZoBUvqhUKG7tL)
 - [Caleb Curry's System Design course](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLSs6x50D5WIH76VCUxJs9E)
+- [Flowchart symbols](https://www.smartdraw.com/flowchart/flowchart-symbols.htm?srsltid=AfmBOoqTmA3oYdU7wN6GHSVxiFIH-Tj9Ge7ymHNDVD5gcqT2mr3wZqqM)
 Swagger
 - [Editor](https://editor.swagger.io)
 - [UI](https://swagger.io/tools/swagger-ui)
@@ -31,4 +32,5 @@ Swagger
 - [OpenAPI Generator Usage](https://openapi-generator.tech/docs/usage)
 Figma
 - [Bring Your Own Laptop courses](https://bringyourownlaptop.com)
+
 
