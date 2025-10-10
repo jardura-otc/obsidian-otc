@@ -32,5 +32,6 @@ Swagger
 - [OpenAPI Generator Usage](https://openapi-generator.tech/docs/usage)
 Figma
 - [Bring Your Own Laptop courses](https://bringyourownlaptop.com)
-
+Flowchart
+- [Mermaid editor](https://www.mermaidchart.com/)
 
