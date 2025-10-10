@@ -28,6 +28,7 @@ Swagger
 - [Editor](https://editor.swagger.io)
 - [UI](https://swagger.io/tools/swagger-ui)
 - [Codegen](https://github.com/swagger-api/swagger-codegen)
+- [OpenAPI Generator Usage](https://openapi-generator.tech/docs/usage)
 Figma
 - [Bring Your Own Laptop courses](https://bringyourownlaptop.com)
 
