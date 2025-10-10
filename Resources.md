@@ -11,17 +11,23 @@
 - [Spring docs](https://docs.spring.io/spring-framework/reference/index.html)
 - [Spring Boot docs](https://docs.spring.io/spring-boot/index.html)
 
-### UX/UI
-- [First 2 hours demo in Figma](https://youtu.be/QJBP2uy8LcU?si=2LaVZalgPWRZ1ROK)
+### DevOps
+- [LocalStack - Local AWS](https://www.localstack.cloud)
 
 ### Databases
 - [PostgreSQL's docs](https://neon.com/postgresql/tutorial)
 
+### UX/UI
+- [First 2 hours demo in Figma](https://youtu.be/QJBP2uy8LcU?si=2LaVZalgPWRZ1ROK)
+
 ### Design
 - [Freecodecamp's UML course](https://youtu.be/WnMQ8HlmeXc?si=GXaw-DP5-cC7GaYw)
 - [Freecodecamp's System Design course](https://youtu.be/F2FmTdLtb_4?si=IcUZoBUvqhUKG7tL)
+- [Caleb Curry's System Design course](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLSs6x50D5WIH76VCUxJs9E)
 Swagger
 - [Editor](https://editor.swagger.io)
 - [UI](https://swagger.io/tools/swagger-ui)
 - [Codegen](https://github.com/swagger-api/swagger-codegen)
+Figma
+- [Bring Your Own Laptop courses](https://bringyourownlaptop.com)
 
