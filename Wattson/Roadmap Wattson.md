@@ -1,2 +1,5 @@
-- [ ] Learn how to design APIs with Swagger tools.
-	- [ ] Packt's Modern API Development with Spring 6 and Spring Boot 3 - Do the first part
+- [ ] Flowchart de les diferents accions del peticionador.
+- [ ] Canvis en la BBDD necessaris per realitzar els endpoints.
+	- [ ] Conversió a Postgresql
+- [ ] Disseny endpoints amb Swagger
+	- [ ] Conversió cap a Springboot
