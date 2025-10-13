@@ -1,9 +1,20 @@
+- [ ] Read docs
+- [ ] UML
+	- [ ] [Tutorial](https://youtu.be/WnMQ8HlmeXc?si=2fiFv6HBpNJrt42F)
+	- [ ] [Mermaid's syntax tutorial](https://mermaid.js.org/syntax/classDiagram.html)
+	- [ ] Create the `petioner` UML
+- [ ] Flowchart
+	- [ ] [Tutorial concepts](https://www.visual-paradigm.com/tutorials/flowchart-tutorial)
+	- [ ] [Mermaid's syntax tutorial](https://mermaid.js.org/syntax/flowchart.html)
+	- [ ] Create the `petitioner` flowchart
 - [ ] Figma
 	- [ ] Wireframe
 	- [ ] Pantalles
-- [ ] Flowchart de les diferents accions del peticionador.
-- [ ] Canvis en la BBDD necessaris per realitzar els endpoints.
+- [ ] Database
+	- [ ] [CS50's SQL](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+	- [ ] Design `petitioners` [tables](https://dbdiagram.io/home)
 	- [ ] Conversió a Postgresql
-- [ ] Disseny endpoints amb Swagger
-	- [ ] Conversió cap a Springboot
-- [ ] Check [mybatis](https://mybatis.org/mybatis-3) docs 
+- [ ] Endpoints
+	- [ ] Design and Build Great Web APIs - Humble Bundle
+	- [ ] Aplicar cap a `petitioner`
+
