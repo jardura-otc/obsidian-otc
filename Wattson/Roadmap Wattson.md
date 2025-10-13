@@ -1,3 +1,6 @@
+- [ ] Figma
+	- [ ] Wireframe
+	- [ ] Pantalles
 - [ ] Flowchart de les diferents accions del peticionador.
 - [ ] Canvis en la BBDD necessaris per realitzar els endpoints.
 	- [ ] Conversió a Postgresql
