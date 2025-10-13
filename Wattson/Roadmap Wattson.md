@@ -1,8 +1,12 @@
 - [ ] Read docs
 - [ ] Figma
+	- [ ] BYOL course
 	- [ ] Wireframe
 	- [ ] Pantalles
-	- [ ] Demostrar al client
+- [ ] Database
+	- [ ] [CS50's SQL](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+	- [ ] Design `petitioners` [tables](https://dbdiagram.io/home)
+	- [ ] Conversió a Postgresql
 - [ ] UML
 	- [ ] [Tutorial](https://youtu.be/WnMQ8HlmeXc?si=2fiFv6HBpNJrt42F)
 	- [ ] [Mermaid's syntax tutorial](https://mermaid.js.org/syntax/classDiagram.html)
@@ -11,11 +15,6 @@
 	- [ ] [Tutorial concepts](https://www.visual-paradigm.com/tutorials/flowchart-tutorial)
 	- [ ] [Mermaid's syntax tutorial](https://mermaid.js.org/syntax/flowchart.html)
 	- [ ] Create the `petitioner` flowchart
-
-- [ ] Database
-	- [ ] [CS50's SQL](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
-	- [ ] Design `petitioners` [tables](https://dbdiagram.io/home)
-	- [ ] Conversió a Postgresql
 - [ ] Endpoints
 	- [ ] Design and Build Great Web APIs - Humble Bundle
 	- [ ] Aplicar cap a `petitioner`
