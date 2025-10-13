@@ -6,3 +6,4 @@
 	- [ ] Conversió a Postgresql
 - [ ] Disseny endpoints amb Swagger
 	- [ ] Conversió cap a Springboot
+- [ ] Check [mybatis](https://mybatis.org/mybatis-3) docs 

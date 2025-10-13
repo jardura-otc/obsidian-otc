@@ -35,3 +35,6 @@ Figma
 Flowchart
 - [Mermaid editor](https://www.mermaidchart.com/)
 
+### Others
+- [Tool to understand repos](https://deepwiki.com)
+	- Just change `github.com` for `deepwiki.com` and that's it!
