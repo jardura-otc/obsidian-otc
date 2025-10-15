@@ -24,4 +24,3 @@ Figma
 > ✅ El client ja pot continuar treballant normalment.  
 > ✅ Les alarmes de CloudWatch s'han normalitzat.
 
-- 
