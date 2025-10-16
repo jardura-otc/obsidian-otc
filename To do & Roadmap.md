@@ -6,10 +6,18 @@
 - [ ] 2h Java track
 - [ ] 2h Tasks
 *Evening*
-- [ ] Codebreakthrough's C learn
+- [ ] LPIC-1
 
 ---
+**Web Design**
+- [ ] BYOL - Figma Essentials
+
 **Frontend**
 - [ ] [Scrimba's frontend path](https://scrimba.com/frontend-path-c0j)
-- [ ] [Angular's course](https://youtu.be/3qBXWUpoPHo?si=E6ojHQZQ4Eg-ISKS)
-- [ ] 
+
+**Backend**
+- [ ] [Java Backend Developer with Spring Boot](https://hyperskill.org/study-plan)
+
+**DevOps**
+- [ ] LPIC-1
+
