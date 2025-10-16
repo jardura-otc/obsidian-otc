@@ -10,6 +10,7 @@
 - [Spring Academy](https://spring.academy)
 - [Spring docs](https://docs.spring.io/spring-framework/reference/index.html)
 - [Spring Boot docs](https://docs.spring.io/spring-boot/index.html)
+- [Hyperskill](https://hyperskill.org)
 
 ### DevOps
 - [LocalStack - Local AWS](https://www.localstack.cloud)
