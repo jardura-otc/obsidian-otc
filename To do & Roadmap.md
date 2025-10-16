@@ -9,3 +9,7 @@
 - [ ] Codebreakthrough's C learn
 
 ---
+**Frontend**
+- [ ] [Scrimba's frontend path](https://scrimba.com/frontend-path-c0j)
+- [ ] [Angular's course](https://youtu.be/3qBXWUpoPHo?si=E6ojHQZQ4Eg-ISKS)
+- [ ] 
