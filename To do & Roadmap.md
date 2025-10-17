@@ -5,8 +5,6 @@
 *Afternoon*
 - [ ] 2h Java track
 - [ ] 2h Tasks
-*Evening*
-- [ ] LPIC-1
 
 ---
 **Web Design**
@@ -16,8 +14,6 @@
 - [ ] [Scrimba's frontend path](https://scrimba.com/frontend-path-c0j)
 
 **Backend**
-- [ ] [Java Backend Developer with Spring Boot](https://hyperskill.org/study-plan)
+- [ ] Udemy's Java Masterclass 2025
 
-**DevOps**
-- [ ] LPIC-1
 
