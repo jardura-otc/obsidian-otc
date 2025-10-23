@@ -186,7 +186,7 @@ psql -U postgres -f src/main/resources/sql/wattson_local_test.sql
 
 **Login:**
 
-```PowerShell
+```shell
 curl -X POST http://localhost:8080/auth/petitioner/login \
   -H "Content-Type: application/json" \
   -d '{
