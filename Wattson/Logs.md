@@ -242,3 +242,60 @@ The petitioner login functionality is now complete and ready for integration wit
 - Security best practices (generic error messages, cooldown periods)
 
 You can now proceed with testing the endpoints and integrating them with your frontend application!
+
+---
+## Petitioner Login MVC - Implementation Summary
+
+  Overview
+
+  Implemented complete PIN-based authentication system for external petitioner users, separate from the standard user
+  authentication flow.
+
+  Components Delivered
+
+  1. REST API Endpoints (PetitionerAuthController.java:34-179)
+  - POST /auth/petitioner/login - PIN-based authentication with JWT token generation
+  - POST /auth/petitioner/request-pin - Generate and email new 6-digit PIN
+  - GET /auth/petitioner/can-request-pin - Check cooldown status (optional frontend helper)
+
+  2. Business Logic Layer (PetitionerAuthService.java:32-274)
+  - PIN generation and BCrypt hashing
+  - Email delivery integration via EmailService
+  - JWT + refresh token generation
+  - Failed attempt tracking with automatic account lockout
+  - PIN expiry management (24-hour validity)
+
+  3. Data Access Layer (PetitionerAuthMapper.java:11-110)
+  - MyBatis annotation-based queries (no XML mappers)
+  - CRUD operations for petitioner_auth table
+  - Atomic updates for failed attempts and lockout status
+
+  4. Domain Model (PetitionerAuth.java:18-96)
+  - Complete entity with helper methods (isLocked(), isPinExpired(), getRemainingAttempts())
+  - Proper Lombok annotations for clean code
+
+  5. Security Configuration (SecurityConfig.java:76-78)
+  - All petitioner endpoints properly configured as public (no authentication required)
+
+  Key Security Features
+
+  - Account lockout: 15 minutes after 3 failed login attempts
+  - PIN expiry: 24 hours from generation
+  - Rate limiting: 60-second cooldown between PIN requests
+  - Generic responses on PIN requests (doesn't reveal if email exists)
+  - BCrypt password hashing for PINs
+  - JWT access tokens (1-hour TTL) + refresh tokens (7-day TTL)
+
+  Testing
+
+  - Unit tests implemented in PetitionerAuthServiceTest.java
+
+  API Documentation
+
+  - Comprehensive Swagger annotations on all endpoints
+  - Available at /swagger-ui/index.html when app is running
+
+  Status
+
+  ✅ Complete and production-ready - All MVC layers implemented with proper error handling, security measures, and API
+  documentation.
