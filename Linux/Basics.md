@@ -67,7 +67,9 @@ wget url-site -O filename.ext
 # Check the OS version
 ls /etc/*release*
 cat /etc/*release*
-
+```
+### Package manager
+```shell
 # Check for packages
 apt list package
 
@@ -76,5 +78,40 @@ apt remove package
 
 # Check for duplicated packages
 apt ---showduplicates list package
-
 ```
+### Services
+```shell
+# Start a service
+service <service_name> start
+# Alternative
+systemctl start <service_name>
+
+# Stop a service
+systemctl stop <service_name>
+
+# Check a service status
+systemctl status <service_name>
+
+# To start a service at startup
+systemctl enable <service_name>
+
+# To not start a service at startup
+systemctl disable <service_name>
+```
+
+Example of a unit config file, using an http server made with Python.
+It'll be placed in: `etc/systemd/system/<app_name>.service`
+```shell
+[Unit]
+Description=Mypython web application
+
+[Service]
+ExecStart=/usr/bin/python3 /opt/code/my_app.py
+ExecStartPre=/opt/code/configure_db.sh
+ExecPost=/pot/code/email_status.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+```
+
