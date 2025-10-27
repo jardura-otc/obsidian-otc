@@ -1,6 +1,7 @@
 ```shell
-# Install node packagesfrom the project
+# Install node packages from the project
 npm install
+
 
 
 ```
