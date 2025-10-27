@@ -118,3 +118,19 @@ Restart=always
 WantedBy=multi-user.target
 ```
 
+---
+### Networking
+```shell
+# Check the interfaces
+ip link
+
+# Assign an IP addresses to a network interface
+ip addr add 192.168.1.10/24 dev eth0
+
+# Check communication
+ping <ip address>
+
+# Specify a gateway
+ip route add 192.168.2.0/24 via 192.168.1.1
+
+```
