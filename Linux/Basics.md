@@ -1,4 +1,7 @@
 ```shell
+# Root
+mjolnir123
+
 # Print to screen
 echo Hi
 
