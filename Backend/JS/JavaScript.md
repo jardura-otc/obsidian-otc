@@ -79,3 +79,18 @@ Ternary operator
 ```js
 const price = isMember ? "$2.00" : "$10.00";
 ```
+
+Functions
+```js
+// function declaration
+function getSum(a, b) {
+  return a + b;
+}
+
+// function call
+const result = getSum(60, 9);
+
+console.log(result);
+// 69
+```
+
