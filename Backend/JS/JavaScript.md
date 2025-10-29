@@ -94,3 +94,31 @@ console.log(result);
 // 69
 ```
 
+Example of named function vs. anonymous function
+```js
+// We have this function
+function conversions(converter, x, y, z) {
+  const convertedX = converter(x);
+  const convertedY = converter(y);
+  const convertedZ = converter(z);
+  console.log(convertedX, convertedY, convertedZ);
+}
+
+// using a named function
+function double(a) {
+  return a + a;
+}
+conversions(double, 1, 2, 3);
+// 2 4 6
+
+// using an anonymous function
+conversions(
+  function (a) {
+    return a + a;
+  },
+  1,
+  2,
+  3,
+);
+// 2 4 6
+```
