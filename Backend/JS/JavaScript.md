@@ -123,3 +123,58 @@ conversions(
 // 2 4 6
 ```
 
+Objects
+```js
+const apple = {
+  name: "Apple",
+  radius: 2,
+  color: "red",
+};
+
+// Access properties
+console.log(apple.name); // prints "Apple"
+console.log(apple.radius); // prints "2"
+console.log(apple.color); // prints "red"
+```
+
+You can omit the colon and the value
+```js
+const radius = 2;
+const color = "red";
+const apple = {
+  radius, // same as radius: radius
+  color: color, // set explicitly for demonstration
+};
+```
+
+Objects can contain other objects:
+```js
+const tournament = {
+  referee: {
+    name: "Sally",
+    age: 25,
+  },
+  prize: {
+    units: "dollars",
+    value: 100,
+  },
+};
+
+// Access them
+console.log(tournament.referee.name); // Sally
+console.log(tournament.prize.value); // 100
+```
+
+Object methods:
+```js
+const person = {
+  firstName: "Lane",
+  lastName: "Wagner",
+  getFullName() {
+    return this.firstName + " " + this.lastName;
+  },
+};
+
+console.log(person.getFullName());
+// Lane Wagner
+```
