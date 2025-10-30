@@ -247,3 +247,62 @@ const matrixMovie = new Movie("The Matrix", 9.5);
 console.log(matrixMovie.getTitleAllCaps());
 // THE MATRIX
 ```
+
+Inheritance
+```js
+class Titan {
+  constructor(name) {
+    this.name = name;
+  }
+
+  speak(msg) {
+    // this gets overridden in the BeastTitan class
+    console.log("*titan noises*");
+  }
+}
+
+class BeastTitan extends Titan {
+  speak(msg) {
+    console.log(`${this.name} says, "I'm the Beast Titan"`);
+  }
+}
+
+const pureTitan = new Titan("Eren's mom");
+pureTitan.speak();
+// *titan noises*
+
+const beast = new BeastTitan("Zeke");
+beast.speak();
+// Zeke says, "I'm the Beast Titan"
+```
+
+Super: to call methods on an object's parent
+```js
+class Titan {
+  constructor(name) {
+    this.name = name;
+  }
+
+  toString() {
+    return `Titan - Name: ${this.name}`;
+  }
+}
+
+class BeastTitan extends Titan {
+  constructor(name, power) {
+    // call the parent's constructor
+    super(name);
+    this.power = power;
+  }
+
+  toString() {
+    // call the parent's `toString` method
+    return `${super.toString()}, Power: ${this.power}`;
+  }
+}
+
+const beast = new BeastTitan("Zeke", 9000);
+console.log(beast.toString());
+// Titan - Name: Zeke, Power: 9000
+```
+
