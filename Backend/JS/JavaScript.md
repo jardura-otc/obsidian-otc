@@ -215,3 +215,35 @@ const { radius, color } = getApple();
 console.log(radius); // 2
 console.log(color); // red
 ```
+
+Classes
+```js
+class User {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+}
+
+const user = new User("Lane", 100);
+```
+
+Private properties `#`:
+```js
+class Movie {
+  #title;
+  constructor(title, rating) {
+    this.#title = title;
+    this.rating = rating;
+  }
+
+  getTitleAllCaps() {
+    const allCaps = this.#title.toUpperCase();
+    return allCaps;
+  }
+}
+
+const matrixMovie = new Movie("The Matrix", 9.5);
+console.log(matrixMovie.getTitleAllCaps());
+// THE MATRIX
+```
