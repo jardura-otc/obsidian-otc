@@ -306,3 +306,28 @@ console.log(beast.toString());
 // Titan - Name: Zeke, Power: 9000
 ```
 
+Prototypes
+```js
+const pureTitan = {
+  // (define a parent object / prototype)
+  name: "Eren's mom",
+  speak(msg) {
+    console.log("*titan noises*");
+  },
+};
+pureTitan.speak();
+// *titan noises*
+
+const beastTitan = Object.create(pureTitan); // (define a child)
+
+console.log(beastTitan.name); // (accessing .name from pureTitan)
+// Eren's mom
+
+beastTitan.name = "Zeke";
+beastTitan.speak = function () {
+  console.log(`${this.name} says, "I'm the Beast Titan"`);
+};
+
+beastTitan.speak();
+// Zeke says, "I'm the Beast Titan"
+```
