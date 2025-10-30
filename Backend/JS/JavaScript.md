@@ -178,3 +178,40 @@ const person = {
 console.log(person.getFullName());
 // Lane Wagner
 ```
+
+Spread Syntax, shallow-copies of the objects' properties:
+```js
+const engineering_dept = {
+  lane: "software engineer",
+  hunter: "software engineer",
+};
+
+const video_dept = {
+  lane: "cringe youtuber",
+  alex: "video producer",
+};
+
+const all_employees = { ...engineering_dept, ...video_dept };
+/*
+{
+  lane: 'cringe youtuber',
+  hunter: 'software engineer',
+  alex: 'video producer'
+}
+*/
+```
+
+Unpack function return values:
+```js
+function getApple() {
+  const apple = {
+    radius: 2,
+    color: "red",
+  };
+  return apple;
+}
+
+const { radius, color } = getApple();
+console.log(radius); // 2
+console.log(color); // red
+```
