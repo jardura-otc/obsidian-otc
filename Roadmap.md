@@ -24,15 +24,16 @@
 	- [ ] Learn Data Structures and Algorithms in Python 1
 	- [ ] Learn Data Structures and Algorithms in Python 2
 	- [ ] Build a Static Site Generator in Python
+- [ ] Scrimba's frontend path
 - [ ] Codebreakthrough
 	- [ ] Python Mastery
 	- [ ] Backend Python
-	- [ ] C and C++ Mastery - C part
+- [ ] Datacamp's Data Analyst in Python
+- [ ] Codebreakthrough's C and C++ Mastery - C part
 - [ ] Boot.dev's Learn Memory Manatement in C
 - [ ] Low Level Academy
 	- [ ] Zero2Hero C Programming
 	- [ ] Network Applications in C
 	- [ ] Write your own HTTP server
 	- [ ] Multi threaded C Applications
-- [ ] Scrimba's frontend path
 - [ ] Boot.dev's first personal project
