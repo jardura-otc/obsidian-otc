@@ -24,7 +24,6 @@
 	- [ ] Learn Data Structures and Algorithms in Python 1
 	- [ ] Learn Data Structures and Algorithms in Python 2
 	- [ ] Build a Static Site Generator in Python
-- [ ] Scrimba's frontend path
 - [ ] Codebreakthrough
 	- [ ] Python Mastery
 	- [ ] Backend Python
@@ -35,4 +34,5 @@
 	- [ ] Network Applications in C
 	- [ ] Write your own HTTP server
 	- [ ] Multi threaded C Applications
+- [ ] Scrimba's frontend path
 - [ ] Boot.dev's first personal project
