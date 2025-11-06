@@ -12,6 +12,10 @@
 **DevOps**
 - [ ] KodeKloud's DevOps Learning Path
 ---
+**Data**
+- [ ] Learn to Code with Basketball
+- [ ] (Optional) Python for Excel [Users](https://nostarch.com/python-excel)
+---
 **UX/UI**
 - [ ] Bring Your Own Laptop's Figma UI UX Essentials
 
