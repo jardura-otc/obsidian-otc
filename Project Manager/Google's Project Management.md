@@ -18,3 +18,29 @@ Influencing Without Authority
 - **Understanding Motivations**: Knowing what drives team members can enhance motivation and improve team dynamics.
 
 Overall, these interpersonal skills are crucial for effective project management and can be highlighted during job interviews.
+
+---
+### Life cycle
+
+1. Initiate the project
+	- Define project goals
+	- Determine resources, people, and other project details.
+	- Get project approval.
+2. Make a plan
+	- Create a budget.
+	- Set the schedule.
+	- Establish your team.
+	- Determine roles and responsibilities.
+	- Plan for risk and change.
+	- Establish communications.
+3. Execute & complete tasks
+	- Manage the progress.
+	- Communicate.
+	- Make adjustments.
+4. Close the project
+	- Ensure all tasks are completed.
+	- Confirm acceptance of the project outcome.
+	- Reflect on lessons learned.
+	- Communicate results to stakeholders.
+	- Celebrate completing the project
+	- Formally move on from the project.
