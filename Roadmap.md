@@ -9,12 +9,23 @@
 	- [ ] Capstone: Applying Project Management in the Real World
 	- [ ] Accelerate your job search with AI
 ---
+**DevOps**
+- [ ] KodeKloud's DevOps Learning Path
+---
+**UX/UI**
+- [ ] Bring Your Own Laptop's Figma UI UX Essentials
+
+---
 ---
 ---
 ### At Home
-**Goal: Ticketing site**
+**Goal: Personal site**
 - [ ] Scrimba's frontend path
+- [ ] Personal site
+---
+**Goal: Ticket site**
 - [ ] Laracasts' Laravel Path
+- [ ] Ticket site
 - [ ] KodeKloud's DevOps Learning Path
 ---
 **Goal: To learn Software Engineer Fundamentals**
@@ -39,7 +50,7 @@
 - [ ] Codebreakthrough
 	- [ ] Python Mastery
 	- [ ] Backend Python
-- [ ] Boot.dev's first personal project
+- [ ] Boot.dev's first personal project - Password administrator through terminal
 ---
 **Goal: To learn C and other low level concepts**
 - [ ] Codebreakthrough's C and C++ Mastery - C part
