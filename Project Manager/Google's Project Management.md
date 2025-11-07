@@ -44,3 +44,5 @@ Overall, these interpersonal skills are crucial for effective project management
 	- Communicate results to stakeholders.
 	- Celebrate completing the project
 	- Formally move on from the project.
+
+---

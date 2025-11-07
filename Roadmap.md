@@ -1,4 +1,3 @@
-### At the Office
 **Project Manager**
 - [ ] Coursera's Google Project Management Professional Certificate
 	- [ ] Foundations of Project Management
@@ -9,18 +8,13 @@
 	- [ ] Capstone: Applying Project Management in the Real World
 	- [ ] Accelerate your job search with AI
 ---
-**DevOps**
-- [ ] KodeKloud's DevOps Learning Path
----
-**Data**
-- [ ] Learn to Code with Basketball
-- [ ] (Optional) Python for Excel [Users](https://nostarch.com/python-excel)
+**Microsoft Excel**
+- [ ] Microsoft Excel Professional [Certificate](https://www.coursera.org/professional-certificates/microsoft-excel-skills)
+- [ ] Learn to Code with Basketball book
+- [ ] Python for Excel [Users](https://nostarch.com/python-excel)
 ---
 **UX/UI**
 - [ ] Bring Your Own Laptop's Figma UI UX Essentials
-
----
----
 ---
 ### At Home
 **Goal: Personal site**
@@ -56,6 +50,9 @@
 	- [ ] Backend Python
 - [ ] Boot.dev's first personal project - Password administrator through terminal
 ---
+**Goal: Automatic deployment**
+- [ ] KodeKloud's DevOps path
+---
 **Goal: To learn C and other low level concepts**
 - [ ] Codebreakthrough's C and C++ Mastery - C part
 - [ ] Boot.dev's Learn Memory Manatement in C
@@ -65,5 +62,4 @@
 	- [ ] Write your own HTTP server
 	- [ ] Multi threaded C Applications
 ---
-
 
