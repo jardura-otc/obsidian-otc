@@ -10,6 +10,11 @@
 ---
 **Microsoft Excel**
 - [ ] Microsoft Excel Professional [Certificate](https://www.coursera.org/professional-certificates/microsoft-excel-skills)
-- [ ] Learn to Code with Basketball book
+---
+**Python**
+- [ ] Microsoft Python Development Professional [Certificate](https://www.coursera.org/professional-certificates/microsoft-python-developer)
 - [ ] Python for Excel [Users](https://nostarch.com/python-excel)
+---
+**PowerShell**
+- [ ] Powershell [Mastery](https://www.udemy.com/course/master-windows-powershell)
 ---
