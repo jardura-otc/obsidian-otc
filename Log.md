@@ -1,6 +1,6 @@
-### 07/11/25
-_Timenet_
-- Falta veure les hores.
-
-_Electric Motion Support_
-- SLA caducat? -> Demanat a l'Edu Xalabarder
+### 11/11/25
+_JCM: R4G_
+- Gemma Reverter: Scrum Master
+- Ricard Renalias:
+- Oriol Serrabassa: Developer
+Propostes pendents d'en Lluis
