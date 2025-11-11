@@ -13,10 +13,10 @@
 ---
 *Electrical Motion Support*
 - [x] Tiquets pendents oberts? - _NET_
-- [ ] Quantes hores dediquem com a equip al mes?
+- [x] Quantes hores dediquem com a equip al mes?
 	- [ ] Implementar hores en el TP
 - [ ] Edu - Quines ofertes hi ha actives?
-- [ ] Revisar si tenim més de 1.500 clients a AWS
+- [x] Revisar si tenim més de 1.500 clients a AWS
 - [ ] Edu - Demanar presentació PM
 	- [ ] Mirar si s'ha d'establir seguiment mensual.
 
