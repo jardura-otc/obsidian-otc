@@ -6,6 +6,8 @@
 	- [ ] ViberAlert: Model de TP?
 	- [ ] 
 - [x] Reclamar la visualització d'hores de Timenet
+- [ ] Enviar mail a Lluis:
+- Hores de dpt quasi un 6%
 
 
 
