@@ -20,6 +20,9 @@ David Clos: SCRUM Master
 - Llibrería Linphone, s'ha de pagar i baixar o no?
 	- Sembla que no hi ha llibrería open source...
 
+_Electric Motion_
+- Es passa llistat de les TCUs de l'Esme cap en Ferran.
+
 ---
 ---
 ---
