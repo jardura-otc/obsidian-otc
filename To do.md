@@ -26,6 +26,7 @@ _Hero Support_
 
 _Hero en general_
 [TP de Hero](Z:\ENGINEERING\HERO\21179_HERO_HMCL_CLOUD\21179.F_HERO_HMCL_CLOUD_NEWREQ)
+- [x] Convo per dijous amb en Sanjay
 - [ ] Reunió amb en Sanjay per fer un punt de situació per dijous.
 	- [ ] Status
 		- [ ] Remote Immobilization
