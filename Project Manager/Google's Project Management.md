@@ -53,3 +53,11 @@ Overall, these interpersonal skills are crucial for effective project management
 4. **Standardize:** Perform the process in the same way every time.
 5. **Sustain:** Make a habit of maintaining correct procedures and instill this discipline in your team.
 
+### Six Sigma's 7 Key Principles
+1. Always focus on the customer.
+2. Identify and understand how the work gets done. Understand how work really happens.
+3. Make your processes flow smoothly.
+4. Reduce waste and concentrate on value.
+5. Stop defects by removing variation.
+6. Involve and collaborate with your team.
+7. Approach improvement activity in a systematic way.
