@@ -46,3 +46,10 @@ Overall, these interpersonal skills are crucial for effective project management
 	- Formally move on from the project.
 
 ---
+### Lean 5S Steps:
+1. **Sort:** Remove all items not needed for current production operations and leave only the bare essentials.
+2. **Set in order:** Arrange needed items so that they are easy to use. Label items so that anyone can find them or put them away.
+3. **Shine:** Keep everything in the correct place. Clean your workspace every day.
+4. **Standardize:** Perform the process in the same way every time.
+5. **Sustain:** Make a habit of maintaining correct procedures and instill this discipline in your team.
+
