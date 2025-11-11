@@ -8,7 +8,7 @@
 - [x] Reclamar la visualització d'hores de Timenet
 
 **RRHH**
-- [ ] Posar bé les hores de TImenet del dpt de Multiplataforma cap els projectes que toquen
+- [ ] Posar bé les hores de Timenet del dpt de Multiplataforma cap els projectes que toquen
 
 ---
 *Electrical Motion Support*
