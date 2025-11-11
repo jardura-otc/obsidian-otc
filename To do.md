@@ -24,5 +24,16 @@ _Hero Support_
 - [ ] SoW completar-lo
 - [ ] Punt de situació de la resta d'activitats de Hero **que no són support**
 
-_Hero Siebel_
-[document per saber el SoW]()
+_Hero en general_
+[TP de Hero](Z:\ENGINEERING\HERO\21179_HERO_HMCL_CLOUD\21179.F_HERO_HMCL_CLOUD_NEWREQ)
+- [ ] Reunió amb en Sanjay per fer un punt de situació per dijous.
+	- [ ] Status
+		- [ ] Remote Immobilization
+		- [ ] ANS & AMCS
+		- [ ] BLE Security Encryption
+		- [ ] CPS-64: Online / Offline Status
+		- [ ] EV FOTA Work Around 3
+To know:
+- Are they delivered from our side?
+- Did we get the customer's approval?
+	- If not, what's pending?
