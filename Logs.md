@@ -19,3 +19,7 @@ David Clos: SCRUM Master
 	- S'ha de parlar amb l'Edu Badía.
 - Llibrería Linphone, s'ha de pagar i baixar o no?
 	- Sembla que no hi ha llibrería open source...
+
+---
+---
+---
