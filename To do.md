@@ -5,7 +5,7 @@ _JCM_
 - [ ] Posar bé les hores de Timenet del dpt de Multiplataforma cap els projectes que toquen
 ---
 **Electrical Motion Support**
-- [ ] _David help_ Implementar hores en el TP
+- [x] _David help_ Implementar hores en el TP
 - [ ] _Edu_
 	- [ ] Quines ofertes hi ha actives?
 	- [ ] Demanar presentació PM
