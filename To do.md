@@ -1,6 +1,6 @@
-- [ ] Enviar mail a Hero que no s'han presentat en la reunió d'avui.
+- [x] Enviar mail a Hero que no s'han presentat en la reunió d'avui.
 - [ ] Àlex - Reclamar el mail tècnic pel tiquet 213 de Hero
-- [ ] Fer les TPs dels meus projectes.
+- [x] Fer les TPs dels meus projectes.
 	- [x] Revisió del SoW d'Electric Motion SLA
 	- [x] Punt de Situació amb en Lluis respecte al 22207.D
 	- [x] On puc trobar els PDFs del que s'ha venut a Hero?

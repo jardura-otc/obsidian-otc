@@ -4,3 +4,4 @@ Punt de situació:
 	- De fet, no tenen un sistema de tiquets per se.
 - Hores dedicades al mes per Multi: 22.55 hores
 - AWS 1100 usuaris registrats.
+- 
