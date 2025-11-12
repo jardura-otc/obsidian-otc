@@ -1,3 +1,6 @@
+_HERO_
+- [ ] Afegir dues persones més de l'equip de l'India en el xat extern
+
 _JCM_
 - [ ] Fer-me un document a Obsidian amb l'SOW per saber on som
 ---
