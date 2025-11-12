@@ -1,18 +1,12 @@
 _JCM_
-- [x] Organitzar reunió de punt de situació amb Multiplataforma, amb en Lluis per divendres
-- [x] Organitzar visita presencial a JCM: JArdura, AAlmarza & DGutiérrez
-	- [x] Acordar dia de la setmana que ve per visitar JCM
-	- [x] Avisar en Lluis per mail amb còpia als implicats
-- [ ] Fer-me un document amb l'SOW per saber on som
-_ISO_
-- [x] Demanar al Jordi que no participo en l'ISO - Degut al mail últim rebut
+- [ ] Fer-me un document a Obsidian amb l'SOW per saber on som
 ---
 **RRHH**
 - [ ] Posar bé les hores de Timenet del dpt de Multiplataforma cap els projectes que toquen
 ---
-*Electrical Motion Support*
-- [ ] Implementar hores en el TP
-- [ ] Edu
+**Electrical Motion Support**
+- [ ] _David help_ Implementar hores en el TP
+- [ ] _Edu_
 	- [ ] Quines ofertes hi ha actives?
 	- [ ] Demanar presentació PM
 - [ ] Mirar si s'ha d'establir seguiment mensual.
