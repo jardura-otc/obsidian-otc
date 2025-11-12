@@ -1,11 +1,11 @@
 _JCM_
 - [x] Organitzar reunió de punt de situació amb Multiplataforma, amb en Lluis per divendres
-- [ ] Organitzar visita presencial a JCM: JArdura, AAlmarza & DGutiérrez
-	- [ ] Acordar dia de la setmana que ve per visitar JCM
-	- [ ] Avisar en Lluis per mail amb còpia als implicats
+- [x] Organitzar visita presencial a JCM: JArdura, AAlmarza & DGutiérrez
+	- [x] Acordar dia de la setmana que ve per visitar JCM
+	- [x] Avisar en Lluis per mail amb còpia als implicats
 - [ ] Fer-me un document amb l'SOW per saber on som
 _ISO_
-- [ ] Demanar al Jordi que no participo en l'ISO - Degut al mail últim rebut
+- [x] Demanar al Jordi que no participo en l'ISO - Degut al mail últim rebut
 ---
 **RRHH**
 - [ ] Posar bé les hores de Timenet del dpt de Multiplataforma cap els projectes que toquen
